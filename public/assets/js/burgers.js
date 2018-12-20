@@ -1,4 +1,5 @@
 //??? \/ $(function(){}) 为什么要加上这行才work
+// 下面$(function(){}) ===> window.onload 所有的function ，就是在html运行完之后再load这个文件里的东西。
 $(function () {
     $(".devouredBurger").on("click", function(event) {
         var id = $(this).data("id");
