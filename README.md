@@ -10,3 +10,5 @@ Tech in use:
 * Express, 
 * Handlebars,
 * Also follow MVC design pattern and ORM; 
+
+check the app [here](https://agile-ridge-45625.herokuapp.com/)
