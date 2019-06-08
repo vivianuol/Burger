@@ -11,4 +11,4 @@ Tech in use:
 * Handlebars,
 * Also follow MVC design pattern and ORM; 
 
-#### check the app [here](https://agile-ridge-45625.herokuapp.com/)
+#### Let's check it out [here](https://agile-ridge-45625.herokuapp.com/).
